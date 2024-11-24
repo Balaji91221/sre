@@ -4,7 +4,7 @@ const projects = [
   {
     title: 'Smart Parking Management System',
     description: 'Developed software to computerize the traditional way of booking parking slots. The attendant manages all the requests made by customers for slot booking. Admin manages all the attendees.',
-    image: '/images/projects/smartpark.png',
+    image: '/images/projects/Smartpark.png',
     link: 'https://github.com/yourusername/smart-parking',
     tags: ['React', 'Node.js', 'MongoDB']
   },

@@ -35,4 +35,3 @@ export function TypewriterEffect({ words, delay = 150 }: TypewriterEffectProps) 
 
   return <span className="text-accent-500 dark:text-accent-400">{currentText}</span>
 }
-
